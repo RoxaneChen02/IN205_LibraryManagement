@@ -12,5 +12,6 @@ L’objectif de ce projet est de vous faire développer une application web de g
  # Quelques commentaires
  
  Lors de la création d'un nouveau livre : si nous avons un titre vide, le formulaire se réinitialise sans crée un nouveau livre.
+ 
  Lors de la création d'un nouveau membre : si nous avons prenom ou un nom vide , le formulaire se réinitialise sans crée un nouveau membre.
  
