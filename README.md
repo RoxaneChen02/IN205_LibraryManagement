@@ -5,6 +5,7 @@ L’objectif de ce projet est de vous faire développer une application web de g
  # Commande d'exécution
  
  mvn clean install exec:java
+ 
  mvn tomcat7:run
  
  Le site se trouve à l'url : http://localhost:8080/TP3Ensta/dashboard
